@@ -1,12 +1,12 @@
 # Note
 ## 开发流程
-·代码规范 Eslint
-·分支开发 Git
-·UT Jest
-·Merge
-·技术债扫描 Sonar
-·CR 风格 门面 chunck
-·自动化测试 mock beef api  测试集要mock好
+* 代码规范 Eslint
+* 分支开发 Git
+* UT Jest
+* Merge
+* 技术债扫描 Sonar
+* CR 风格 门面 chunck
+* 自动化测试 mock beef api  测试集要mock好
 
 
 开发和产品思维都要有
